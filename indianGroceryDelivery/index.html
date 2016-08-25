@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/app.min.css" />
     <link rel="stylesheet" href="css/responsive.min.css" />
 
-    <script type="text/javascript" src="http://thingsdeliveredus.github.io/indianGroceryDelivery/fileServer/js/inventory.js"></script>
+    <script type="text/javascript" src="https://thingsdeliveredus.github.io/indianGroceryDelivery/fileServer/js/inventory.js"></script>
     <script src="cordova.js"></script>
     <script src="js/app.min.js"></script>
   </head>
@@ -32,11 +32,11 @@
           </div>
         </div>
         <div class="btn-group pull-right" ng-click="showCart()" ng-hide="showInitialPage || showCartPage || notInOperationPage">
-          <div class="btn">
+          <div class="btn"><b style="border: 1px solid #007aff; border-radius: 10px; padding: 5px;">Checkout</b>
             <i class="fa fa-shopping-cart"></i> {{totalItemsInCart}}
           </div>
         </div>
-        <div class="btn-group pull-right" ng-click="emptyCart()" ng-show="showCartPage">
+        <div class="btn-group pull-right" ng-click="emptyCart()" ng-show="showCartPage && cart.length != 0">
           <div class="btn btn-danger">Empty Cart</div>
         </div>
       </div>
