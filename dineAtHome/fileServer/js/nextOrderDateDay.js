@@ -1,5 +1,5 @@
 function getNextOrderDateDay() {
-	var nextOrder = "August 15 , 2017";
+	var nextOrder = new Date('2017-08-15');
 	var todaysDate = new Date();
 
 	if (nextOrder == null || nextOrder <= todaysDate){
