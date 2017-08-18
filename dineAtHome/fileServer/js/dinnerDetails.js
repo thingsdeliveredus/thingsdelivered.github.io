@@ -38,6 +38,7 @@ function getCustomizedDinnerDetail() {
 			"thisPage"	: "secondItem",
 			"nextPage"	: "thirdItem"
 		}
-	]
+	];
+	return items;
 	
 }
