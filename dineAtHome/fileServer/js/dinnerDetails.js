@@ -17,7 +17,12 @@ function getCustomizedDinnerDetail() {
 			"cost"		: "1.00",
 			"costType"	: "per pack (3 roties)",
 			"orderPreText"	: "Order",
-			"orderPostText"	: "packs"
+			"orderPostText"	: "packs",
+			
+			"lastPage"	: "dinnerThaliOrCustomize",
+			"thisPage"	: "fistItem",
+			"nextPage"	: "secondItem"
+			
 		},
 		
 		{
@@ -27,7 +32,11 @@ function getCustomizedDinnerDetail() {
 			"cost"		: "2.50",
 			"costType"	: "per person",
 			"orderPreText"	: "Order for",
-			"orderPostText"	: "person"
+			"orderPostText"	: "person",
+			
+			"lastPage"	: "fistItem",
+			"thisPage"	: "secondItem",
+			"nextPage"	: "thirdItem"
 		}
 	]
 	
