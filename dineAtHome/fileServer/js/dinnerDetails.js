@@ -19,9 +19,7 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order",
 			"orderPostText"	: "packs",
 			
-			"lastPage"	: "dinnerThaliOrCustomize",
-			"thisPage"	: "fistItem",
-			"nextPage"	: "secondItem"
+			"thisPage"	: "i1"
 			
 		},
 		
@@ -34,9 +32,79 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order for",
 			"orderPostText"	: "person",
 			
-			"lastPage"	: "fistItem",
-			"thisPage"	: "secondItem",
-			"nextPage"	: "thirdItem"
+			"thisPage"	: "i2"
+		},
+		
+		{
+			"item"		: "Dal",
+			"image"		: "http://cdn3.foodviva.com/static-content/food-images/curry-recipes/batata-nu-shaak-gujarati-style-potato-subzi/batata-nu-shaak-gujarati-style-potato-subzi.jpg",
+			"message"	: "Cut potato cooked in spices",
+			"cost"		: "2.50",
+			"costType"	: "per person",
+			"orderPreText"	: "Order for",
+			"orderPostText"	: "person",
+			
+			"thisPage"	: "i3"
+		},
+		
+		{
+			"item"		: "Bhat",
+			"image"		: "http://cdn3.foodviva.com/static-content/food-images/curry-recipes/batata-nu-shaak-gujarati-style-potato-subzi/batata-nu-shaak-gujarati-style-potato-subzi.jpg",
+			"message"	: "Cut potato cooked in spices",
+			"cost"		: "2.50",
+			"costType"	: "per person",
+			"orderPreText"	: "Order for",
+			"orderPostText"	: "person",
+			
+			"thisPage"	: "i4"
+		},
+		
+		{
+			"item"		: "Papad",
+			"image"		: "http://cdn3.foodviva.com/static-content/food-images/curry-recipes/batata-nu-shaak-gujarati-style-potato-subzi/batata-nu-shaak-gujarati-style-potato-subzi.jpg",
+			"message"	: "Cut potato cooked in spices",
+			"cost"		: "2.50",
+			"costType"	: "per person",
+			"orderPreText"	: "Order for",
+			"orderPostText"	: "person",
+			
+			"thisPage"	: "i5"
+		},
+		
+		{
+			"item"		: "",
+			"image"		: "",
+			"message"	: "",
+			"cost"		: "",
+			"costType"	: "",
+			"orderPreText"	: "",
+			"orderPostText"	: "",
+			
+			"thisPage"	: "i6"
+		},
+		
+		{
+			"item"		: "",
+			"image"		: "",
+			"message"	: "",
+			"cost"		: "",
+			"costType"	: "",
+			"orderPreText"	: "",
+			"orderPostText"	: "",
+			
+			"thisPage"	: "i7"
+		},
+		
+		{
+			"item"		: "",
+			"image"		: "",
+			"message"	: "",
+			"cost"		: "",
+			"costType"	: "",
+			"orderPreText"	: "",
+			"orderPostText"	: "",
+			
+			"thisPage"	: "i8"
 		}
 	];
 	return items;
