@@ -19,7 +19,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order",
 			"orderPostText"	: "packs",
 			
-			"thisPage"	: "i1"
+			"thisPage"	: "i1",
+			"lastPage"	: "dinnerThaliOrCustomize",
+			"nextPage"	: "i2"
 			
 		},
 		
@@ -32,7 +34,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order for",
 			"orderPostText"	: "person",
 			
-			"thisPage"	: "i2"
+			"thisPage"	: "i2",
+			"lastPage"	: "i1",
+			"nextPage"	: "i3"
 		},
 		
 		{
@@ -44,7 +48,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order for",
 			"orderPostText"	: "person",
 			
-			"thisPage"	: "i3"
+			"thisPage"	: "i3",
+			"lastPage"	: "i2",
+			"nextPage"	: "i4"
 		},
 		
 		{
@@ -56,7 +62,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order for",
 			"orderPostText"	: "person",
 			
-			"thisPage"	: "i4"
+			"thisPage"	: "i4",
+			"lastPage"	: "i3",
+			"nextPage"	: "i5"
 		},
 		
 		{
@@ -68,7 +76,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "Order for",
 			"orderPostText"	: "person",
 			
-			"thisPage"	: "i5"
+			"thisPage"	: "i5",
+			"lastPage"	: "i4",
+			"nextPage"	: "i6"
 		},
 		
 		{
@@ -80,7 +90,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "",
 			"orderPostText"	: "",
 			
-			"thisPage"	: "i6"
+			"thisPage"	: "i6",
+			"lastPage"	: "i5",
+			"nextPage"	: "i7"
 		},
 		
 		{
@@ -92,7 +104,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "",
 			"orderPostText"	: "",
 			
-			"thisPage"	: "i7"
+			"thisPage"	: "i7",
+			"lastPage"	: "i6",
+			"nextPage"	: "i8"
 		},
 		
 		{
@@ -104,7 +118,9 @@ function getCustomizedDinnerDetail() {
 			"orderPreText"	: "",
 			"orderPostText"	: "",
 			
-			"thisPage"	: "i8"
+			"thisPage"	: "i8",
+			"lastPage"	: "i7",
+			"nextPage"	: "dinnerThaliOrCustomize"
 		}
 	];
 	return items;
