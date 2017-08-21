@@ -11,6 +11,7 @@ function getThaliDetail() {
 function getCustomizedDinnerDetail() {
 	var items = [
 		{
+			"id"		: "one",
 			"item"		: "Roti",
 			"image"		: "http://www.supremequalityfoods.com.au/images/products/product-chapati-wholemeal.jpg",
 			"message"	: "Made from stoneground wholemeal flour, traditionally known as atta with thin layer of ghee on top",
@@ -21,6 +22,7 @@ function getCustomizedDinnerDetail() {
 		},
 		
 		{
+			"id"		: "two",
 			"item"		: "Potato Shak",
 			"image"		: "http://cdn3.foodviva.com/static-content/food-images/curry-recipes/batata-nu-shaak-gujarati-style-potato-subzi/batata-nu-shaak-gujarati-style-potato-subzi.jpg",
 			"message"	: "Cut potato cooked in spices",
