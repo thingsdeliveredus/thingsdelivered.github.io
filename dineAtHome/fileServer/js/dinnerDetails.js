@@ -13,10 +13,10 @@ function getCustomizedDinnerDetail() {
 	var items = [
 		{
 			"count"		: "0",
-			"item"		: "Roti",
+			"name"		: "Roti",
 			"image"		: "http://www.supremequalityfoods.com.au/images/products/product-chapati-wholemeal.jpg",
 			"message"	: "Made from stoneground wholemeal flour, traditionally known as atta with thin layer of ghee",
-			"cost"		: "1.60",
+			"cost"		: "2.00",
 			"costType"	: "per pack (4 roties)",
 			"orderPreText"	: "Order",
 			"orderPostText"	: "packs"
@@ -24,10 +24,32 @@ function getCustomizedDinnerDetail() {
 		
 		{
 			"count"		: "0",
-			"item"		: "Potato Shak",
+			"name"		: "Potato Shak",
 			"image"		: "http://cdn3.foodviva.com/static-content/food-images/curry-recipes/batata-nu-shaak-gujarati-style-potato-subzi/batata-nu-shaak-gujarati-style-potato-subzi.jpg",
 			"message"	: "Cut potato cooked in spices",
+			"cost"		: "3.00",
+			"costType"	: "per person",
+			"orderPreText"	: "Order for",
+			"orderPostText"	: "person"
+		},
+		
+		{
+			"count"		: "0",
+			"name"		: "Dal",
+			"image"		: "http://www.vegrecipesofindia.com/wp-content/uploads/2014/11/gujarati-dal-recipe-3.jpg",
+			"message"	: "Toor dal boiled and cooked in spices",
 			"cost"		: "2.50",
+			"costType"	: "per person",
+			"orderPreText"	: "Order for",
+			"orderPostText"	: "person"
+		},
+		
+		{
+			"count"		: "0",
+			"name"		: "Bhat (Rice)",
+			"image"		: "http://kindersay.com/files/images/rice.png",
+			"message"	: "Boiled rice",
+			"cost"		: "1.50",
 			"costType"	: "per person",
 			"orderPreText"	: "Order for",
 			"orderPostText"	: "person"
