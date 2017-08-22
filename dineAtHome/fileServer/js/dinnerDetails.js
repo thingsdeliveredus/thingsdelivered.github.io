@@ -14,7 +14,7 @@ function getCustomizedDinnerDetail() {
 			"count"		: "0",
 			"item"		: "Roti",
 			"image"		: "http://www.supremequalityfoods.com.au/images/products/product-chapati-wholemeal.jpg",
-			"message"	: "Made from stoneground wholemeal flour, traditionally known as atta with thin layer of ghee on top",
+			"message"	: "Made from stoneground wholemeal flour, traditionally known as atta with thin layer of ghee",
 			"cost"		: "1.00",
 			"costType"	: "per pack (3 roties)",
 			"orderPreText"	: "Order",
