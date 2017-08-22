@@ -58,3 +58,16 @@ function getCustomizedDinnerDetail() {
 	return items;
 	
 }
+
+function getLunchThaliDetail() {
+	var thali = 
+	{
+		"count"		: "0",
+		"name"		: "Bataka Poha"
+		"detail"	: "Potato, penutes and poha shallow fried in spices",
+		"image"		: "http://www.rkmp.co.in/sites/default/files/Poha%20%28ashwita.com%29.jpg",
+		"cost"		: "3.99",
+		"costType"	: "per person"
+	}
+	return thali;
+}
