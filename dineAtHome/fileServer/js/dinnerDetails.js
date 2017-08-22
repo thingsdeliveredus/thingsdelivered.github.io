@@ -1,3 +1,7 @@
+function deliveryZipCodes() {
+	var zipcodes = ["01821", "11111"];	
+}
+
 function getThaliDetail() {
 	var thali = 
 	{
