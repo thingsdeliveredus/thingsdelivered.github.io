@@ -25,7 +25,7 @@ function getCustomizedDinnerDetail() {
 			"count"		: "0",
 			"item"		: "Potato Shak",
 			"image"		: "http://cdn3.foodviva.com/static-content/food-images/curry-recipes/batata-nu-shaak-gujarati-style-potato-subzi/batata-nu-shaak-gujarati-style-potato-subzi.jpg",
-			"message"	: "Cut and boiled potato cooked in spices",
+			"message"	: "Cut potato cooked in spices",
 			"cost"		: "2.50",
 			"costType"	: "per person",
 			"orderPreText"	: "Order for",
